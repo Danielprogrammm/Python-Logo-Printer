@@ -14,27 +14,27 @@ def python_logo():
     blank10 = ' ' * 10
 
     return (f'\n{_25} PYTHON PROGRAM {_25}\n\
-                                     {_66}\n\
-                                     {_66}\n\
-                                     {_27}{blank12}{_27}\n\
-                                     {_26}  _{blank11}{_26}\n\
-                                     {_26}  _{blank11}{_26}\n\
-                                     {_26}{blank14}{_26}\n\
-                                     {_34}      {_26}\n\
-                                     {_15}{blank25}_{blank10}{_15}\n\
-                                     {_14}{blank26}_{blank11}{_14}\n\
-                                     {_14}{blank26}_{blank11}{_14}\n\
-                                     {_14}{blank12}{_14}{blank11} {_14}\n\
-                                     {_14}{blank11}_{blank14}{blank11} {_14}\n\
-                                     {_14}{blank11}_{blank14}{blank11} {_14}\n\
-                                     {_15}{blank10}_{blank14}{blank10} {_15}\n\
-                                     {_26}      {_34}\n\
-                                     {_26}{blank14}{_26}\n\
-                                     {_26}{blank10} _  {_26}\n\
-                                     {_26}{blank10} _  {_26}\n\
-                                     {_27}{blank12}{_27}\n\
-                                     {_66}\n\
-                                     {_66}\n')
+{_66}\n\
+{_66}\n\
+{_27}{blank12}{_27}\n\
+{_26}  _{blank11}{_26}\n\
+{_26}  _{blank11}{_26}\n\
+{_26}{blank14}{_26}\n\
+{_34}      {_26}\n\
+{_15}{blank25}_{blank10}{_15}\n\
+{_14}{blank26}_{blank11}{_14}\n\
+{_14}{blank26}_{blank11}{_14}\n\
+{_14}{blank12}{_14}{blank11} {_14}\n\
+{_14}{blank11}_{blank14}{blank11} {_14}\n\
+{_14}{blank11}_{blank14}{blank11} {_14}\n\
+{_15}{blank10}_{blank14}{blank10} {_15}\n\
+{_26}      {_34}\n\
+{_26}{blank14}{_26}\n\
+{_26}{blank10} _  {_26}\n\
+{_26}{blank10} _  {_26}\n\
+{_27}{blank12}{_27}\n\
+{_66}\n\
+{_66}\n')
 
 
 # The ready Logo / Das fertige Logo
